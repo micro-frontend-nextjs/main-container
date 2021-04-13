@@ -17,7 +17,11 @@ read more on:
 2. `npm install`
 3. `npm run dev`
 
+!Need to start browser without CORS 
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
 
 For this demo you'll also need to be running:
 
